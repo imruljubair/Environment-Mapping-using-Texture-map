@@ -3,6 +3,7 @@
 Mapping a texture onto a sphere. The texure is generated using physically based rendering software (pbrt: https://www.pbrt.org/)
 
 ![Alt text](https://raw.githubusercontent.com/imruljubair/Environment-Mapping-using-Texture-map/master/pbrt-8.bmp)
+![Alt text](https://raw.githubusercontent.com/imruljubair/Environment-Mapping-using-Texture-map/master/envmap.png)
 
 
 keys:
